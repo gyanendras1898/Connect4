@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="ConnectApp">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConnectApp</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyStoreUrl" value="file://" />
+      </options>
+    </properties>
+    <root id="archive" name="ConnectApp.apk" />
+  </artifact>
+</component>

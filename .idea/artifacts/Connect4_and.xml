@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="Connect4_and">
+    <output-path>$PROJECT_DIR$/out/artifacts/Connect4_and</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyStoreUrl" value="file://" />
+      </options>
+    </properties>
+    <root id="archive" name="Connect4_and.apk">
+      <element id="archive" name="Connect4.jar">
+        <element id="module-output" name="Connect4" />
+      </element>
+    </root>
+  </artifact>
+</component>
